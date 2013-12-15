@@ -1,0 +1,29 @@
+{
+  "name": "lucas-lehmer-test",
+  "version": "1.0.0",
+  "description": "Lucas-Lehmer primality test",
+  "keywords": [
+    "primality",
+    "prime"
+  ],
+  "repository": "KenanY/lucas-lehmer-test",
+  "license": "MIT",
+  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE.txt"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "dependencies": {
+    "big-integer": "^1.1.5"
+  },
+  "devDependencies": {
+    "tape": "^2.1.0"
+  }
+}
