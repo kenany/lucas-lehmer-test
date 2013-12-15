@@ -5,9 +5,10 @@
 
 
 [Lucas-Lehmer primality test](https://en.wikipedia.org/wiki/Lucas%E2%80%93Lehmer_primality_test)
-in JavaScript. This is the primality test that is used by the Great Internet
-Mersenne Prime Search to locate large primes, and has done a pretty good job of
-finding some of the largest primes to date.
+in JavaScript. This is the primality test that is used by the
+[Great Internet Mersenne Prime Search](http://www.mersenne.org/) to locate large
+primes, and has done a pretty good job of finding some of the largest primes to
+date.
 
 ## Example
 
