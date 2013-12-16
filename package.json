@@ -1,6 +1,6 @@
 {
   "name": "lucas-lehmer-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lucas-Lehmer primality test",
   "keywords": [
     "math",
