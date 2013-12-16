@@ -12,7 +12,10 @@ test('works', function(t) {
     [8, false],
     [9, false],
     [10, false],
+    [11, false],
+    [12, false],
     [31, true],
+    [47, false],
     [127, true]
   ];
 

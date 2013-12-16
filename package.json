@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Lucas-Lehmer primality test",
   "keywords": [
+    "math",
+    "mersenne",
     "primality",
     "prime"
   ],

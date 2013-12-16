@@ -12,6 +12,8 @@ date.
 
 ## Example
 
+Is the 31st Mersenne number a prime number?
+
 ``` javascript
 var lucasLehmerTest = require('lucas-lehmer-test');
 
@@ -33,7 +35,7 @@ var lucasLehmerTest = require('lucas-lehmer-test');
 
 ### lucasLehmerTest(value)
 
-Uses the Lucas-Lehmer primality test to determine if `value` is a prime number.
-Returns `true` if it is; otherwise it returns `false`. `value` can be either a
-_Number_ (it most cases it probably will be) or a _String_ (for really large
-numbers that JavaScript has a hard time with).
+Uses the Lucas-Lehmer primality test to determine if the `value`th Mersenne
+number is a prime number. Returns `true` if it is; otherwise it returns `false`.
+`value` can be either a _Number_ (it most cases it probably will be) or a
+_String_ (for really large numbers that JavaScript has a hard time with).
