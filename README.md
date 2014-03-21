@@ -1,6 +1,6 @@
 # lucas-lehmer-test
 
-[![Build Status](https://travis-ci.org/KenanY/lucas-lehmer-test.png?branch=master)](https://travis-ci.org/KenanY/lucas-lehmer-test)
+[![Build Status](https://travis-ci.org/KenanY/lucas-lehmer-test.svg)](https://travis-ci.org/KenanY/lucas-lehmer-test)
 [![Dependency Status](https://gemnasium.com/KenanY/lucas-lehmer-test.png)](https://gemnasium.com/KenanY/lucas-lehmer-test)
 
 
