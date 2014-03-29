@@ -35,6 +35,7 @@ var lucasLehmerTest = require('lucas-lehmer-test');
 ### lucasLehmerTest(value)
 
 Uses the Lucas-Lehmer primality test to determine if the `value`th Mersenne
-number is a prime number. Returns `true` if it is; otherwise it returns `false`.
-`value` can be either a _Number_ (it most cases it probably will be) or a
-_String_ (for really large numbers that JavaScript has a hard time with).
+number is a prime number. Returns `true` if it is; otherwise returns `false`.
+`value` can be a _Number_ (it most cases it probably will be) a
+_String_ (for really large numbers that JavaScript has a hard time with), or an
+instance of [big-integer](https://www.npmjs.org/package/big-integer).
