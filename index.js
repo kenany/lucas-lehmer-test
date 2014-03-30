@@ -12,9 +12,9 @@ module.exports = function(p) {
   var s = bigInt(4);
   var M = bigInt(2).pow(p).minus(1);
 
-  var index = -1;
-  while (++index < p - 2) {
-    s = bigInt(s).pow(2).minus(2).mod(M);
+  var index = bigInt(-1);
+  while ((index = index.next()).lesser(p.minus(2))) {
+    s = s.pow(2).minus(2).mod(M);
   }
 
   return s.equals(0);
