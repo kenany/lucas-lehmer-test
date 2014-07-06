@@ -26,6 +26,7 @@
     "big-integer": "^1.1.5"
   },
   "devDependencies": {
+    "lodash.isfunction": "^2.4.1",
     "tape": "^2.1.0"
   }
 }
