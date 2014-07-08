@@ -32,7 +32,7 @@ $ npm install lucas-lehmer-test
 var lucasLehmerTest = require('lucas-lehmer-test');
 ```
 
-### lucasLehmerTest(value)
+### `lucasLehmerTest(value)`
 
 Uses the Lucas-Lehmer primality test to determine if the `value`th Mersenne
 number is a prime number. Returns `true` if it is; otherwise returns `false`.
