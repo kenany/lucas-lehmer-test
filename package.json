@@ -30,9 +30,9 @@
     "big-integer": "^1.1.5"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "4.0.0",
+    "@kenan/eslint-config": "6.0.0",
     "@kenan/renovate-config": "1.1.1",
-    "eslint": "3.19.0",
+    "eslint": "5.16.0",
     "lodash.isfunction": "3.0.9",
     "nyc": "9.0.1",
     "tape": "4.11.0"
