@@ -1,6 +1,7 @@
-var lucasLehmerTest = require('../');
 var test = require('tape');
 var isFunction = require('lodash.isfunction');
+
+var lucasLehmerTest = require('../');
 
 test('exports a function', function(t) {
   t.plan(1);
