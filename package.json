@@ -19,6 +19,9 @@
   "directories": {
     "test": "test"
   },
+  "engines": {
+    "node": "10 || 12 || >=14"
+  },
   "scripts": {
     "lint": "eslint *.js test/*.js",
     "tests-only": "tape test/index.js",
