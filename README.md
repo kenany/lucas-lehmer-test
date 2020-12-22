@@ -1,8 +1,5 @@
 # lucas-lehmer-test
 
-[![Build Status](https://travis-ci.org/KenanY/lucas-lehmer-test.svg)](https://travis-ci.org/KenanY/lucas-lehmer-test)
-[![Dependency Status](https://gemnasium.com/KenanY/lucas-lehmer-test.svg)](https://gemnasium.com/KenanY/lucas-lehmer-test)
-
 [Lucas-Lehmer primality test](https://en.wikipedia.org/wiki/Lucas%E2%80%93Lehmer_primality_test)
 in JavaScript. This is the primality test that is used by the
 [Great Internet Mersenne Prime Search](http://www.mersenne.org/) to locate large
