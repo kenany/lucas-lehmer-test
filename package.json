@@ -31,7 +31,7 @@
     "big-integer": "^1.6.48"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^8.0.0",
+    "@kenan/eslint-config": "^8.0.3",
     "@kenan/renovate-config": "^1.4.0",
     "eslint": "^7.9.0",
     "lodash.isfunction": "^3.0.9",
