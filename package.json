@@ -10,7 +10,7 @@
   ],
   "repository": "KenanY/lucas-lehmer-test",
   "license": "MIT",
-  "author": "Kenan Yildirim <kenan@kenany.me> (http://kenany.me/)",
+  "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "index.js",
   "files": [
     "index.js",
@@ -20,7 +20,7 @@
     "test": "test"
   },
   "engines": {
-    "node": "10 || 12 || >=14"
+    "node": "12 || 14 || >=16"
   },
   "scripts": {
     "lint": "eslint *.js test/*.js",
