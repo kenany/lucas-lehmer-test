@@ -28,7 +28,7 @@
     "test": "nyc tape test/index.js"
   },
   "dependencies": {
-    "big-integer": "^1.6.48"
+    "big-integer": "^1.6.50"
   },
   "devDependencies": {
     "@kenan/eslint-config": "^9.0.4",
