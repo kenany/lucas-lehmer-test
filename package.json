@@ -25,7 +25,8 @@
   "scripts": {
     "lint": "eslint *.js test/*.js",
     "pretest": "npm run -s lint",
-    "test": "nyc tape test/index.js"
+    "test": "nyc tape test/index.js",
+    "release": "semantic-release"
   },
   "dependencies": {
     "big-integer": "^1.6.50"
@@ -33,9 +34,13 @@
   "devDependencies": {
     "@kenan/eslint-config": "^9.0.4",
     "@kenan/renovate-config": "^1.5.1",
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "conventional-changelog-conventionalcommits": "^4.6.1",
     "eslint": "^7.32.0",
     "lodash.isfunction": "^3.0.9",
     "nyc": "^15.1.0",
+    "semantic-release": "^18.0.0",
     "tape": "^5.3.1"
   }
 }
