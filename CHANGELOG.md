@@ -1,3 +1,10 @@
+### [2.0.1](https://github.com/KenanY/lucas-lehmer-test/compare/2.0.0...2.0.1) (2021-11-23)
+
+
+### Bug Fixes
+
+* **deps:** big-integer@1.6.51 ([945bd5c](https://github.com/KenanY/lucas-lehmer-test/commit/945bd5cf044adc3617c96d6a074c452194214df2))
+
 ## [2.0.0](https://github.com/KenanY/lucas-lehmer-test/compare/1.0.4...2.0.0) (2021-11-22)
 
 
