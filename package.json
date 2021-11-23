@@ -29,7 +29,7 @@
     "release": "semantic-release"
   },
   "dependencies": {
-    "big-integer": "^1.6.50"
+    "big-integer": "^1.6.51"
   },
   "devDependencies": {
     "@kenan/eslint-config": "^9.0.4",
