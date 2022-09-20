@@ -1,3 +1,14 @@
+## [3.0.0](https://github.com/KenanY/lucas-lehmer-test/compare/2.0.1...3.0.0) (2022-09-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v12 is no longer supported.
+
+### Features
+
+* drop Node.js v12 support ([c0c4417](https://github.com/KenanY/lucas-lehmer-test/commit/c0c44170f83bb8a58ac59cc55bf883898da67681))
+
 ### [2.0.1](https://github.com/KenanY/lucas-lehmer-test/compare/2.0.0...2.0.1) (2021-11-23)
 
 
