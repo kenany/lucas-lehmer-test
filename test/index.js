@@ -1,7 +1,7 @@
-var test = require('tape');
-var isFunction = require('lodash.isfunction');
+const test = require('tape');
+const isFunction = require('lodash.isfunction');
 
-var lucasLehmerTest = require('../');
+const lucasLehmerTest = require('../');
 
 test('exports a function', function(t) {
   t.plan(1);
@@ -9,7 +9,7 @@ test('exports a function', function(t) {
 });
 
 test('works', function(t) {
-  var TEST_ARRAY = [
+  const TEST_ARRAY = [
     [2, true],
     [3, true],
     [4, false],

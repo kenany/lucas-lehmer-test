@@ -1,5 +1,9 @@
-var bigInt = require('big-integer');
+const bigInt = require('big-integer');
 
+/**
+ * @param {number} p
+ * @returns {boolean}
+ */
 module.exports = function(p) {
   p = bigInt(p);
   if (p.equals(2)) {
@@ -9,10 +13,10 @@ module.exports = function(p) {
   //   return false;
   // }
 
-  var s = bigInt(4);
-  var M = bigInt(2).pow(p).minus(1);
+  let s = bigInt(4);
+  const M = bigInt(2).pow(p).minus(1);
 
-  var index = bigInt(-1);
+  let index = bigInt(-1);
   while ((index = index.next()).lesser(p.minus(2))) {
     s = s.pow(2).minus(2).mod(M);
   }
