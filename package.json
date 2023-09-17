@@ -8,7 +8,7 @@
     "primality",
     "prime"
   ],
-  "repository": "KenanY/lucas-lehmer-test",
+  "repository": "github:kenany/lucas-lehmer-test",
   "license": "MIT",
   "author": "Kenan Yildirim <kenan@kenany.me> (https://kenany.me/)",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "test": "test"
   },
   "engines": {
-    "node": "14 || 16 || >=18"
+    "node": "18 || >=20"
   },
   "scripts": {
     "lint": "eslint *.js test/*.js",
@@ -32,11 +32,11 @@
     "big-integer": "^1.6.51"
   },
   "devDependencies": {
-    "@kenan/eslint-config": "^9.0.4",
+    "@kenan/eslint-config": "^11.0.1",
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "conventional-changelog-conventionalcommits": "^6.1.0",
-    "eslint": "^7.32.0",
+    "eslint": "^8.49.0",
     "lodash.isfunction": "^3.0.9",
     "nyc": "^15.1.0",
     "semantic-release": "^21.0.7",
