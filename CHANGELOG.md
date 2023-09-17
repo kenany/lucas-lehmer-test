@@ -1,3 +1,14 @@
+## [4.0.0](https://github.com/kenany/lucas-lehmer-test/compare/3.0.0...4.0.0) (2023-09-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* Node.js v14 and v16 are no longer supported.
+
+### Features
+
+* drop Node.js v14 and v16 ([b432aa7](https://github.com/kenany/lucas-lehmer-test/commit/b432aa7a327b695e98c73f48f4112f686dc2425a))
+
 ## [3.0.0](https://github.com/KenanY/lucas-lehmer-test/compare/2.0.1...3.0.0) (2022-09-20)
 
 
