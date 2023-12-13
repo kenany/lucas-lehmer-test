@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/kenany/lucas-lehmer-test/compare/4.0.0...4.0.1) (2023-12-13)
+
+
+### Bug Fixes
+
+* **deps:** big-integer@1.6.52 ([6a2a675](https://github.com/kenany/lucas-lehmer-test/commit/6a2a6751b061197d08ef84fb6a2db7a99809e1bd))
+
 ## [4.0.0](https://github.com/kenany/lucas-lehmer-test/compare/3.0.0...4.0.0) (2023-09-17)
 
 
